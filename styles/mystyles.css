@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(119, 3, 3);
+    background-color: rgb(254, 253, 165)
+    
+}
+
+li {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.common{
+    position: absolute;
+}
+
+
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {text-decoration: underline}
+
+.bold {font-weight: bold;}
+
+.justify {text-align: justify;}
+
+.Navigation {
+    right: 20px;
+    top: 20px;
+    padding-left: 5 px;
+}
+
+.Tableau {
+    top: 114px;
+    bottom: 120px;
+    left: 114px;
+    right: 114px;
+    padding-top: 25px;
+    color: black;
+    font-style: italic;
+}
+
+.Footer {
+    font-style: italic;
+    font-size: 10px;
+    color: slategray;
+    text-align: center;
+    position: relative;
+    padding-top: 25px;
+}
